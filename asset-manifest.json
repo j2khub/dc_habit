@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dc_habit/static/css/main.c8d128e6.css",
+    "main.js": "/dc_habit/static/js/main.f81641a9.js",
+    "index.html": "/dc_habit/index.html",
+    "main.c8d128e6.css.map": "/dc_habit/static/css/main.c8d128e6.css.map",
+    "main.f81641a9.js.map": "/dc_habit/static/js/main.f81641a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8d128e6.css",
+    "static/js/main.f81641a9.js"
+  ]
+}
